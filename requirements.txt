@@ -1,4 +1,4 @@
 pip==23.3.1
 streamlit
-st-gsheets-connection==0.0.3
+st-gsheets-connection
 pushbullet.py==0.12.0
