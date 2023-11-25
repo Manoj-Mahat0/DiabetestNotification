@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "diabeties-entry-form",
+  "private_key_id": "fb7c4cc77e8edac06be219b5adbc6ffb0bba4aaa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2XqLHS/78ZEEl\noTp6OEQo+y4+HwljShbUeovjpPebkn14hvJCmdw0wVGZkEFahfDaTO5MHrDzWI3I\nYI0HszUZH5iqp4eWpC0E4l+MtfymntBHDkVX3tUYaYUCZ0KbCex7f15KTRbrkVsE\nwjb682Hvj251puvxZoUMiY6Uu0ktrTpQXU9w9EJEvrRyvafEm9yzKzjLw/oodwaD\ntXwMQKQRO7PqbyaLnGNvzAI1uglLWkAzbclVId1F/PBPV+6X9WRCL3cBlKonfk4B\nobq9Px0f9eMf/GU0oepMEGEf3RJT6ZJrU5XDI+EJU77zf01KUvvsK5vdKWKWSJBG\nF+MUA641AgMBAAECggEAJ8jw/4P1gme3q6cm+/tS6VLUxYIdWO8UmHGMm5LFXsfg\nPf9Ikh2BQ/QJonPtQfuW7fTbBrmqVkgzFCv2EGA43Px+4HnwUz2JQbfF6wtXrRzX\n6Kx1FcSb3fnFJd9TkUGiuNVyQ0jaj3UUM29QMcKPUsUKbrnF3tHEBFZtB8bs4bz6\niUBAUp+pYaMIl26EySrr1YvOlBvYPBk6adewCKjAjoD5oyrshdeYUb1OECmHw6ej\nYSq2zqWEF3DMurT07QnqJwpntAaGGcCjHNNkMgaSwtNZ5CTRPVgQ+flHw4Rn3hyj\neqmF8R4kAjj6CMUWrWPgF8LSwSRnj3SPHcRkLC8LmQKBgQDn4vkF8Fz95Tyidyh6\ni6FLwuFnXd1wcsgmraVTcRrXh8ATcLRYEp9nLCJxpW3Z9klRFKf7mltOw+Nca+Kb\nMfuicmLEmyVUuFIB6rzyb2sxqNnbicKKQ3D/vTYM8Ii8hZ55Lxq0kwlW/vnT+ZSf\nRPyIU0Dn1nO01Xt0fDaKdJynLQKBgQDJVXptDlX+Cgvk4RpZhaM8gEutkzCxKmM6\nSzC+k59IwbJhJUE3LfCECl8RWGrN/7nBfvNbFTlhcfkzkMawzqHC554OuhFPOZ0B\njcXhrp/1DjU24UKJe4PN4Imtk9Ni0YC4NWwp6chcBpCB3KAirii+VSZ7CJLQITq3\nTkmA+LGIKQKBgQDlqiJz5F1lxf5o9tWrkdG95JU0uH3Smoxr6n4dB5/LKhNt7alg\ntYkVOVwf7PXA87In0OqTQoz+lPsBlYTJqxaMDPiPuw2dPDVU2rYq83lapN6pFmcM\nY8FuOWtoI296MGkFo0ay5BJTDJRJgx7VJBFtv+8/72GIEAyHEWM/fEGPPQKBgG88\ng+yXHBnEkTe+yyEk/cBine1jwmZQJgzCGEdjJoE7S4Py4mpLPnSlikr6D+CK5qWq\nr2fmfRKCtw2vcqejMqqN77zxPrkH+uAt5WPAaG4rkGkm4e01yefIpCi74PHbEIQ2\nN/GcUe/OTK8DJ5KhqK8oOp+FaCAIC/nVDjVssiGpAoGAdYpt5EIoXI5OFvcTEwnC\nucsUWpudJM4TD4Js/JXrc2rZTHFeN7DqMUKiZDUYV6V78CB+o/5KRIKDyc/NceeY\nm5UxcS8mEhszvuY3tRAR38tV2YnI3sdQQ3IA2x2pyhpO8mDSDG3EBIiDx4h8R88w\nuSCLejrGsv1Xx5vnmPhGNB8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "diabeties-python-acess@diabeties-entry-form.iam.gserviceaccount.com",
+  "client_id": "110880036036333614794",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/diabeties-python-acess%40diabeties-entry-form.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
