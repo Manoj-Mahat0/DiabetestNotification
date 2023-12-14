@@ -35,7 +35,7 @@ with st.form(key="vendor_form"):
     # Mark mandatory fields
     st.markdown("**required*")
 
-    submit_button = st.form_submit_button(label="Submit Vendor Details")
+    submit_button = st.form_submit_button(label="Submit")
 
     if submit_button:
         vendor_data = pd.DataFrame(
